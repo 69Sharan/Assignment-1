@@ -1,4 +1,4 @@
-Basic Statistics Assignment - 1
+**Basic Statistics Assignment - 1**
 
 Q1) Identify the Data type for the Following: (Discrete or Continuous)
 
